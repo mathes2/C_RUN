@@ -1,4 +1,4 @@
-# Cvičení – Git + GCC
+# Cvičení – Git + gcc
 
 ## Úkol:
 ---
