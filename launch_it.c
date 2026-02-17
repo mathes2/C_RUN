@@ -4,7 +4,6 @@
 #include <string.h>
 #include <sys/types.h>
 
-/* Jednoduchá hashovací funkce (není triviální na pohled) */
 unsigned long simple_hash(const char *s) {
     unsigned long h = 5381;
     int c;
