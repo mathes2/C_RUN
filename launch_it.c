@@ -58,6 +58,6 @@ int main(void) {
 
     fclose(f);
 
-    printf("Hotovo. Soubor byl vytvoren.\n");
+    printf("OK.\n");
     return 0;
 }
