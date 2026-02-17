@@ -57,6 +57,6 @@ int main(void) {
 
     fclose(f);
 
-    printf("OK.\n");
+    printf("FLAG{}%lx\n", hash);
     return 0;
 }
